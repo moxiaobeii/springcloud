@@ -68,6 +68,13 @@
         <artifactId>log4j</artifactId>
         <version>${log4j.version}</version>
       </dependency>
+      <!--测试新添加东西
+      <dependency>
+        <groupId>log4j</groupId>
+        <artifactId>log4j</artifactId>
+        <version>${log4j.version}</version>
+      </dependency>
+      -->
     </dependencies>
   </dependencyManagement>
 
